@@ -1,3 +1,5 @@
+//Test File was not created by Tremaine McKinley. It was provided as a tool for the original assignment.
+
 var MatchGameTests = {};
 
 MatchGameTests.runTests = function() {
